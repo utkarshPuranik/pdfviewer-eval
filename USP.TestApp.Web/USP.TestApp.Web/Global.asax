@@ -1,0 +1,1 @@
+<%@ Application Language="C#" Inherits="USP.TestApp.Web.Global" %>
